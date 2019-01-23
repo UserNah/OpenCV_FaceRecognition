@@ -1,5 +1,7 @@
 # OpenCV
 
+
+
 This project can detect:
           *  head
           *  eye(closed or open)
@@ -12,11 +14,21 @@ This project can detect:
           
 !!! If code is not work you can create in your MVS new -> c# -> Windows Forms. Download in NuGet -> "Emgu.CV" package. afer:
 
-  To Form1:
+ 
+ 
+To Form1:
             panel1
             button1
-  To Forn1.cs:
+ 
+ 
+To Forn1.cs:
             "Form1.txt" from this project
-  To Form1.Designer.cs:
+  
+  
+  
+ To Form1.Designer.cs:
             "Form1.Designer.txt" from this project
-  To          
+
+To your file "\bin\Debug" include: "haarcascade_frontalface_default.xml", "haarcascade_eye.xml"  XML documents
+
+After it Should work
