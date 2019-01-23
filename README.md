@@ -10,7 +10,7 @@ This project can detect:
           
           
           
-# If code is not work you can create in your MVS new -> c# -> Windows Forms. Download in NuGet -> "Emgu.CV" package. afer:
+!!! If code is not work you can create in your MVS new -> c# -> Windows Forms. Download in NuGet -> "Emgu.CV" package. afer:
 
   To Form1:
             panel1
